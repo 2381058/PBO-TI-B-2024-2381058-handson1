@@ -12,7 +12,9 @@ public class TipeDataNumber {
         int hexDecimal = 0xFF;
         int binDecimal = 0b0101;
 
+        int sebuahBilangan = 1_000_000_000;
 
+        System.out.println(sebuahBilangan);
 
 
     }

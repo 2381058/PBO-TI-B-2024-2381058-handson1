@@ -1,7 +1,7 @@
 public class MembuatVariable {
     public static void main(String[] args) {
         byte namavariable;
-        byte nama_variable_1;
+        byte nama_variable_satu;
         byte namaVariableSatu;
 
         int showInfo = 10;
@@ -11,7 +11,7 @@ public class MembuatVariable {
         String lastname = "Panjaitan";
 
         String fullName;
-        fullName = "Jeremy Panjaitan";
+        fullName = "Alain Panjaitan";
 
         final double PHI_VALUE = 3.14;
 

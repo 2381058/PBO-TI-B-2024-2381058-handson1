@@ -7,5 +7,6 @@ public class TipeDataCharacter {
 
         System.out.println(characterJ);
         System.out.println(characterE);
+
     }
 }

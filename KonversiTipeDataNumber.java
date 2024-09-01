@@ -8,7 +8,7 @@ public class KonversiTipeDataNumber {
         double tipeDataDouble = tipeDataFloat;
 
         int tipeDataInteger = -129;
-        int tipeDataByte2 = (byte) tipeDataInteger;
+        byte tipeDataByte2 = (byte) tipeDataInteger;
         System.out.println(tipeDataByte2);
         String firstName, lastName;
         firstName = "William";
